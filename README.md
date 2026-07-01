@@ -49,3 +49,8 @@ README.md             # Project documentation
 
 ## Purpose
 This project is part of my preparation for entering the Computer Science & Engineering along with data analytics program at The Ohio State University. During my internship at BERPL Tech I gained a SQL and Python certification and want to apply my knowledge into a project that refelcted my hobbies. I built it to strengthen my SQL, Python, and data analysis skills while creating a real, meaningful project for my portfolio.
+
+## Live Demo
+You can view the deployed dashboard here:
+
+https://nwsl-player-contribution-dashboard.streamlit.app/
